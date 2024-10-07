@@ -30,3 +30,18 @@ The **EDOFOOD** mobile application is designed to offer users a convenient way t
 ## 🛠 Technologies:
 - **Design Platform**: Figma
 - **E-commerce Platform**: Designed for smooth user experience and efficient shopping.
+
+- # Mobile App Signup Flow
+
+This mobile app signup flow provides a smooth and user-friendly experience for new users to sign up and existing users to log in.
+
+## 🛠 Key Features:
+- **Signup Screen**: A simple interface where users can create an account using their email/username and password. It includes a "Confirm Password" field for added security.
+- **Login Option**: A clear "Already have an account? Log in" prompt allows easy navigation for returning users.
+- **Welcome Back Screen**: Users who have an account are greeted with a welcoming login page.
+- **Sign In with Alternatives**: Integration for alternative sign-in methods like social media or other platforms (if implemented).
+
+## 🛠 Technologies:
+- **Design Platform**: Figma
+- **Mobile Interface**: The signup flow is designed to be responsive and easy to use on mobile devices.
+
