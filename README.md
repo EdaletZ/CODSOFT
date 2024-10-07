@@ -14,3 +14,19 @@ The **EDOFOOD** mobile application is designed to offer users a convenient way t
 ## 🛠 Technologies:
 - **Design Platform**: Figma
 - **Mobile Interface**: Designed to enhance the user experience on mobile devices.
+
+# EdoShop E-commerce Website
+
+**EdoShop** is a modern e-commerce platform offering a wide range of high-quality products from international brands. The website provides an intuitive and user-friendly shopping experience for customers.
+
+## 🛒 Key Features:
+- **International Brands**: Showcasing products from over 300 international brands.
+- **New Arrivals and Bestsellers**: Highlighting the latest fashion items and top-selling products.
+- **Discounted Products**: Displaying discounted prices for selected products in the catalog.
+- **Product Categories**: Offering collections for women, men, kids, and more.
+- **Customer Account Management**: Users can manage their orders, deliveries, and payments through the account section.
+- **Customer Support**: Includes FAQ, customer support, and delivery details to assist users.
+
+## 🛠 Technologies:
+- **Design Platform**: Figma
+- **E-commerce Platform**: Designed for smooth user experience and efficient shopping.
